@@ -2,14 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nicolas+Kochhann;Software+Developer;PHP+%7C+Laravel+%7C+TypeScript+%7C+Fastify" alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nkochhann&style=for-the-badge&color=ff2d20)
-
-
 </div>
-
----
 
 ## About Me
 
