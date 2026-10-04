@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;\-&nbsp;&nbsp;Software developer and programming student at **IFRS**\
 &nbsp;&nbsp;\-&nbsp;&nbsp;Integration Development Intern at **Madesa**\
-&nbsp;&nbsp;\-&nbsp;&nbsp;Currently working on **simple-composer** — A simple, type-safe app composition library, for TypeScript.
+&nbsp;&nbsp;\-&nbsp;&nbsp;Currently working on **stitchbox** — A simple, type-safe app composition library, for TypeScript.
 
 ---
 
